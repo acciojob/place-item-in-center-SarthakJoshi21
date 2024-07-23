@@ -2,9 +2,9 @@
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:center;
-	flex-direction:center;
-	width:50%;
-	height:50%;
+	align-items:center;
+	width:100vm;
+	height:100vh;
 	
 }
 .item-1{
