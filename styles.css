@@ -1,2 +1,16 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	flex-direction:center;
+	width:50%;
+	height:50%;
+	
+}
+.item-1{
+	padding:30px;
+	margin:10px;
+	background-color:green;
+	color:black;
+	font-size:50px;
+}
